@@ -1,5 +1,5 @@
 # <summary><strong>Hi there :wave: , I'm Daffa Rasya!!</strong></summary>
-Lifelong Learner, currently working as budagh kompeni.
+"Hello, I am Daffa Rasya Islami. I have an interest in Technology and Software Development. I became a Backend Developer because I want to use my logic skills to develop something in the IT field. I am always eager to learn and become the best. Nice to meet you."
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
@@ -10,20 +10,14 @@ Lifelong Learner, currently working as budagh kompeni.
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
+    - :keyboard: I’m currently learning Mobile Developping and advancing Backend Developing. </br>
     - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
-    - :game_die: Drawing and writing are part of me. </br>
+    - :mailbox: How to reach me: <a href="mailto:daffarasyaworkspace@gmail.com">Email me!</a>  </br>
+    - :cloud: Pronouns: He/Him. </br>
+    - :game_die: Playing Game, Watching Anime and Tokusatsu. </br>
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-<a href="https://twitter.com/yours">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
-<a href="https://www.instagram.com/yours/">
+<a href="https://www.instagram.com/ray_ark12/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<a href="https://yours.com/">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 </a>
